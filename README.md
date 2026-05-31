@@ -7,3 +7,6 @@
 - AWS
 ## Framework
 - Spring boot
+## API Gateway
+- Kong API
+- Spring Cloud gateway
